@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          i was changed
+          I was changed on the Feature Branch
 
         </p>
         <a
@@ -17,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          i was changed on the Feature Branch
+          Learn React
         </a>
       </header>
     </div>
